@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>com.project</groupId>
-    <artifactId>CRUDSpringBootProject</artifactId>
+    <artifactId>CampusCore-Student CRUD_SpringProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>CRUDSpringBootProject</name>
